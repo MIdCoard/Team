@@ -1,0 +1,5 @@
+name: Team
+main: com.focess.team.Team
+version: 1.0
+author: why
+depend: [Vault]

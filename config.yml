@@ -1,0 +1,8 @@
+time: 120
+money: 150
+chatformat: ¡¾%country%¡¿%team% >>> %player%
+killfriend: 150
+killenemy: 150
+teammax: 15
+day: 7
+rtime: 23:59:59
